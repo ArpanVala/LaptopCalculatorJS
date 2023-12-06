@@ -5,10 +5,10 @@
 }
 :root{
     --containerbg1:#051d16;
-    --containerbg2:#088F8F;/*#2c3c48; */
+    --containerbg2:#2c3c48;
     --bg:#000;
     --color:#fff;
-    --btnbg:#f00;/*#555;*/
+    --btnbg:#555;
     --opratorbg:orange;
     --opratortop:#999;
     --opratortopcolor:#000;
